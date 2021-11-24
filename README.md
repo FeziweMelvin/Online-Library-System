@@ -25,8 +25,7 @@
 
 ```bash 
   # Clone the repository
-  git clone https://github.com/legacy-96/signin.git
-  cd /signin
+ https://github.com/FeziweMelvin/Online-Library-System.git
 ```
 
 ```bash 

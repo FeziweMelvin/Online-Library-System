@@ -1,5 +1,5 @@
 # 0x64 Web App
-- By Team 0x64 
+ 
 ## Description
 - Designing and implementing a web App for an online library system.
 
@@ -12,8 +12,6 @@
 - [ ] Implement the designs with functionality
 - [ ] Run continous test 
 
-## Web App Wireframe & Designs
- coming soon . . .
 
 ## To Run This App [Instructions below]
 ### Tools
